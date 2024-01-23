@@ -8,6 +8,6 @@ Hello! I'm Niclas, a programmer passionate about creating small projects that ai
 
 - 🌟 Project 1: [Discord-Bot](https://github.com/Niclas0308/Discord-Bot)
 - 🚀 Project 2: [Java Minesweeper](https://github.com/Niclas0308/javaminesweeper)
-- ⚙️ Project 3: [Project Name 3](https://github.com/yourusername/project3)
+- ⚙️ and other smaller projects from the DailyProgrammer-Reddit page that are too small to include here.
 
 
