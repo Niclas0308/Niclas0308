@@ -1,7 +1,5 @@
 # About Me
 
-![Profile Image](https://your-image-url.com/profile.png)
-
 Hello! I'm Niclas, a programmer passionate about creating small projects that aim to help me learn new stuff.
 
 ## Projects
